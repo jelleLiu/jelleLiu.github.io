@@ -1,0 +1,427 @@
+﻿.box {
+  display: inline-block;
+  width: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 25px #f30 solid;
+  border-image-slice: 25 fill;
+  border-image-repeat: round;
+}
+
+.inbox {
+  margin: -20px;
+  width: 130px;
+  height: 130px;
+}
+
+.f1 {
+  border-image-source: url("/img/Frame01.png");
+}
+
+/* 边框1 */
+.FrameBox1 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 25px #f30 solid;
+  border-image-slice: 25 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame01.png");
+}
+
+  /* 边框1的内芯 */
+  .FrameBox1 .inbox {
+    margin: -10px;
+  }
+
+
+/* 边框2 */
+.FrameBox2 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 30px #f30 solid;
+  border-image-slice: 30 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame02.png");
+}
+
+  /* 边框2的内芯 */
+  .FrameBox2 .inbox {
+    margin: -15px;
+  }
+
+/* 边框3 */
+.FrameBox3 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 20px #f30 solid;
+  border-image-slice: 20 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame03.png");
+}
+
+  /* 边框3的内芯 */
+  .FrameBox3 .inbox {
+    margin: -5px;
+  }
+
+
+/* 边框4 */
+.FrameBox4 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 30px #f30 solid;
+  border-image-slice: 30 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame04.png");
+}
+
+  /* 边框4的内芯 */
+  .FrameBox4 .inbox {
+    margin: -15px;
+  }
+
+/* 边框5 */
+.FrameBox5 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 5px #f30 solid;
+  border-image-slice: 5 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame05.png");
+}
+
+  /* 边框5的内芯 */
+  .FrameBox5 .inbox {
+    margin: 10px;
+  }
+
+/* 边框6 */
+.FrameBox6 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 5px #f30 solid;
+  border-image-slice: 5 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame06.png");
+}
+
+  /* 边框6的内芯 */
+  .FrameBox6 .inbox {
+    margin: 10px;
+  }
+
+/* 边框7 */
+.FrameBox7 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 25px #f30 solid;
+  border-image-slice: 25 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame07.png");
+}
+
+  /* 边框7的内芯 */
+  .FrameBox7 .inbox {
+    margin: -10px;
+  }
+
+
+/* 边框8 */
+.FrameBox8 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 50px #f30 solid;
+  border-image-slice: 50 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame08.png");
+}
+
+  /* 边框8的内芯 */
+  .FrameBox8 .inbox {
+    margin: -35px;
+  }
+
+/* 边框9 */
+.FrameBox9 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 25px #f30 solid;
+  border-image-slice: 25 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame09.png");
+}
+
+  /* 边框9的内芯 */
+  .FrameBox9 .inbox {
+    margin: -10px 10px;
+  }
+
+/* 边框10 */
+.FrameBox10 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 50px #f30 solid;
+  border-image-slice: 50 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame10.png");
+}
+
+  /* 边框10的内芯 */
+  .FrameBox10 .inbox {
+    margin: -35px -15px;
+  }
+
+/* 边框11 */
+.FrameBox11 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 50px #f30 solid;
+  border-image-slice: 50 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame11.png");
+}
+
+  /* 边框11的内芯 */
+  .FrameBox11 .inbox {
+    margin: -35px -25px;
+  }
+
+/* 边框12 */
+.FrameBox12 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 50px #f30 solid;
+  border-image-slice: 50 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame12.png");
+}
+
+  /* 边框12的内芯 */
+  .FrameBox12 .inbox {
+    margin: -35px -25px;
+  }
+
+
+/* 边框13 */
+.FrameBox13 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 40px #f30 solid;
+  border-image-slice: 40 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame13.png");
+}
+
+  /* 边框13的内芯 */
+  .FrameBox13 .inbox {
+    margin: -5px;
+  }
+
+
+/* 边框14 */
+.FrameBox14 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 40px #f30 solid;
+  border-image-slice: 40 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame14.png");
+}
+
+  /* 边框14的内芯 */
+  .FrameBox13 .inbox {
+    margin: -5px;
+  }
+
+
+/* 边框14 */
+.FrameBox14 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 40px #f30 solid;
+  border-image-slice: 40 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame14.png");
+}
+
+  /* 边框14的内芯 */
+  .FrameBox14 .inbox {
+    margin: -5px;
+  }
+
+
+/* 边框15 */
+.FrameBox15 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 40px #f30 solid;
+  border-image-slice: 40 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame15.png");
+}
+
+  /* 边框15的内芯 */
+  .FrameBox15 .inbox {
+    margin: -5px;
+  }
+
+
+/* 边框16 */
+.FrameBox16 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 40px #f30 solid;
+  border-image-slice: 40 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame16.png");
+}
+
+  /* 边框16的内芯 */
+  .FrameBox16 .inbox {
+    margin: -5px;
+  }
+
+
+/* 边框17 */
+.FrameBox17 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 40px #f30 solid;
+  border-image-slice: 40 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame17.png");
+}
+
+  /* 边框17的内芯 */
+  .FrameBox17 .inbox {
+    margin: -5px;
+  }
+
+
+/* 边框18 */
+.FrameBox18 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 40px #f30 solid;
+  border-image-slice: 40 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame18.png");
+}
+
+  /* 边框18的内芯 */
+  .FrameBox18 .inbox {
+    margin: -5px;
+  }
+
+
+/* 边框19 */
+.FrameBox19 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 40px #f30 solid;
+  border-image-slice: 40 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame19.png");
+}
+
+  /* 边框19的内芯 */
+  .FrameBox19 .inbox {
+    margin: -5px;
+  }
+
+
+/* 边框20 */
+.FrameBox20 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 40px #f30 solid;
+  border-image-slice: 40 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame20.png");
+}
+
+  /* 边框20的内芯 */
+  .FrameBox20 .inbox {
+    margin: -5px;
+  }
+
+/* 边框21 */
+.FrameBox21 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border: 40px #f30 solid;
+  border-image-slice: 40 fill;
+  border-image-repeat: round;
+  border-image-source: url("/img/Frame21.png");
+}
+
+  /* 边框21的内芯 */
+  .FrameBox21 .inbox {
+    margin: -5px;
+  }

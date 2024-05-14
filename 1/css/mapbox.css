@@ -1,0 +1,412 @@
+﻿.box {
+  display: inline-block;
+  width: 150px;
+  margin: 10px;
+  padding: 0px;
+}
+
+.inbox {
+  margin: 15px;
+  width: 130px;
+  height: 130px;
+}
+
+  .inbox p {
+    color: black;
+    background-color: rgb(200 200 200 / 75%);
+    text-align: center;
+    display: block;
+    margin-left: -10px;
+    margin-top: -10px;
+  }
+
+.f1 {
+  border-image-source: url("/map/01Small.jpg");
+}
+
+/* 边框 */
+.MapBox {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  padding: 0px;
+  border:1px solid #CCCCCC;
+}
+
+  /* 边框1的内芯 */
+  .MapBox .inbox {
+    margin: 15px;
+  }
+
+/* 边框1 */
+.MapBox1 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/01Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框1的内芯 */
+  .MapBox1 .inbox {
+    margin: 15px;
+  }
+
+
+/* 边框2 */
+.MapBox2 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/02Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框2的内芯 */
+  .MapBox2 .inbox {
+    margin: 15px;
+  }
+
+/* 边框3 */
+.MapBox3 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/03Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框3的内芯 */
+  .MapBox3 .inbox {
+    margin: 15px;
+  }
+
+
+/* 边框4 */
+.MapBox4 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/04Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框4的内芯 */
+  .MapBox4 .inbox {
+    margin: 15px;
+  }
+
+/* 边框5 */
+.MapBox5 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/05Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框5的内芯 */
+  .MapBox5 .inbox {
+    margin: 15px;
+  }
+
+/* 边框6 */
+.MapBox6 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/06Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框6的内芯 */
+  .MapBox6 .inbox {
+    margin: 15px;
+  }
+
+/* 边框7 */
+.MapBox7 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/07Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框7的内芯 */
+  .MapBox7 .inbox {
+    margin: 15px;
+  }
+
+
+/* 边框8 */
+.MapBox8 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/08Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框8的内芯 */
+  .MapBox8 .inbox {
+    margin: 15px;
+  }
+
+/* 边框9 */
+.MapBox9 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/09Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框9的内芯 */
+  .MapBox9 .inbox {
+    margin: 15px;
+  }
+
+/* 边框10 */
+.MapBox10 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/10Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框10的内芯 */
+  .MapBox10 .inbox {
+    margin: 15px;
+  }
+
+/* 边框11 */
+.MapBox11 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/11Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框11的内芯 */
+  .MapBox11 .inbox {
+    margin: 15px;
+  }
+
+/* 边框12 */
+.MapBox12 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/12Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框12的内芯 */
+  .MapBox12 .inbox {
+    margin: 15px;
+  }
+
+
+/* 边框13 */
+.MapBox13 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/13Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框13的内芯 */
+  .MapBox13 .inbox {
+    margin: 15px;
+  }
+
+
+/* 边框14 */
+.MapBox14 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/14Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框14的内芯 */
+  .MapBox14 .inbox {
+    margin: 15px;
+  }
+
+
+/* 边框15 */
+.MapBox15 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/15Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框15的内芯 */
+  .MapBox15 .inbox {
+    margin: 15px;
+  }
+
+
+/* 边框16 */
+.MapBox16 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/16Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框16的内芯 */
+  .MapBox16 .inbox {
+    margin: 15px;
+  }
+
+
+/* 边框17 */
+.MapBox17 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/17Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框17的内芯 */
+  .MapBox17 .inbox {
+    margin: 15px;
+  }
+
+
+/* 边框18 */
+.MapBox18 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/18Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框18的内芯 */
+  .MapBox18 .inbox {
+    margin: 15px;
+  }
+
+
+/* 边框19 */
+.MapBox19 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/19Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框19的内芯 */
+  .MapBox19 .inbox {
+    margin: 15px;
+  }
+
+
+/* 边框20 */
+.MapBox20 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/20Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框20的内芯 */
+  .MapBox20 .inbox {
+    margin: 15px;
+  }
+
+/* 边框21 */
+.MapBox21 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/21Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框21的内芯 */
+  .MapBox21 .inbox {
+    margin: 15px;
+  }
+
+
+/* 边框22 */
+.MapBox22 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/22Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框22的内芯 */
+  .MapBox22 .inbox {
+    margin: 15px;
+  }
+
+/* 边框23 */
+.MapBox23 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/23Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框23的内芯 */
+  .MapBox23 .inbox {
+    margin: 15px;
+  }
+
+/* 边框24 */
+.MapBox24 {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-image: url("/map/24Small.jpg");
+  margin: 10px;
+  padding: 0px;
+}
+
+  /* 边框24的内芯 */
+  .MapBox24 .inbox {
+    margin: 15px;
+  }
