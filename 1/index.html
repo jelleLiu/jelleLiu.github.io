@@ -577,6 +577,8 @@
       //鼠标选中并正在通过模型配置对话框编辑的对象
       //临时保存，用来实时刷新材质和颜色
       var MouseSelectMesh = null;
+      var MP3 = new Audio("/Files/sjl.mp3");
+      MP3.load();
     </script>
 
     <script type="module">
@@ -3865,7 +3867,7 @@
         //初始化所有事件
         StepPlayClock = 0;
         StepPlayDuration = 5;
-
+        MP3.play();
 
         if (Steps.length > 0) {
           StepPlayDuration = 0;
